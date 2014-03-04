@@ -1,7 +1,7 @@
 <h1>Sticky Sidebar jQuery Plugin</h1>
 Tiny, simple jQuery plugin that allows you to target an element and force it to scroll with the page.
 
-Includes option to set the margin between the top of the page and the element – forcing the element to scroll only at a certain distance from the top of the page – and option to set a parent element for the sticky element to stay within.
+Option included to set the margin between the top of the page and the element (forcing the element to scroll only at a certain distance from the top of the page) and to set a parent element for the sticky element to stay within.
 
 Basic usage:<br />
 ``$('.mySidebar').stickySidebar();``
