@@ -6,11 +6,13 @@ Includes option to set the margin between the top of the page and the element â€
 Basic usage: **$('.mySidebar').stickySidebar();**
 
 Options:<br />
-$('.mySidebar').stickySidebar({<br />
-  topMargin: ENTER_NUMBER,<br />
-  parent: 'ENTER_SELECTOR',<br />
-  bottomMargin: ENTER_NUMBER<br />
+``
+$('.mySidebar').stickySidebar({
+  topMargin: ENTER_NUMBER,
+  parent: 'ENTER_SELECTOR',
+  bottomMargin: ENTER_NUMBER
 });
+``
 
 Description of options:<br />
  - topMargin: Distance element should be from top of page when scrolling is begins. This distance will be maintained. Default is 20
