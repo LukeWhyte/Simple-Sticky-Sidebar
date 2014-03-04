@@ -3,7 +3,8 @@ Tiny, simple jQuery plugin that allows you to target an element and force it to 
 
 Includes option to set the margin between the top of the page and the element – forcing the element to scroll only at a certain distance from the top of the page – and option to set a parent element for the sticky element to stay within.
 
-Basic usage: **$('.mySidebar').stickySidebar();**
+Basic usage:<br />
+``$('.mySidebar').stickySidebar();``
 
 Options:<br />
 ````
